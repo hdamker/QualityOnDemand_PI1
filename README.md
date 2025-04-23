@@ -1,4 +1,4 @@
-# QoD SeNF.       
+# QoD SeNF.     
 
 
 This Quality on Demand (QoD) Service Enabling Function (SeNF) simplifies mobile network resources
