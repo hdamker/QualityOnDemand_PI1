@@ -1,4 +1,5 @@
-# QoD SeNF
+# QoD SeNF.      
+
 
 This Quality on Demand (QoD) Service Enabling Function (SeNF) simplifies mobile network resources
 allocation.
@@ -20,6 +21,7 @@ The QoD API offers functionalities for managing QoS sessions and profiles:
 
 - **Create QoS Sessions:** Developers can create new sessions by specifying the device, application server, desired QoS profile, and
   optional duration and notification details.
+     test
 - **Manage QoS Sessions:**
     - **Get Session Information:** Retrieve information about an active session using its ID.
     - **Extend Session Duration:** Extend the duration of an active session.
